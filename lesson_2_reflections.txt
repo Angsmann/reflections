@@ -16,3 +16,7 @@ Branches are useful if you want to test different versions in parallel, while st
 
 How do the diagrams help you visualize the branch structure?
 They help understand the branch structure, that's it. ;-)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The merge result is a new branch tip containing all changes from both branches.
+The diagram helps to visualize the commit history of both branches.
