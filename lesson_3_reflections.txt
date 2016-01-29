@@ -4,3 +4,8 @@ Of course, a remote can also serve as a back-up in case your computer crashes.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 This will reduce data traffic, and you can keep a cleaner version locally, which is not always overwritten by data from Git.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A branch is a parallel thread to the main branch, which can be used to test changes.
+A clone is simply a copy, no matter if it is within the working directory or from the repository to the working directory.
+A clone within GitHub is named fork.
