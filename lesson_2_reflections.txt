@@ -4,5 +4,9 @@ When you initialize a repository, a hidden folder named .git is created.
 You can then check the status with the command "git status".
 You need to initialize a repository in order to connect the folder with Git, so you are able to use its functionality on the folder's content.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a kind of temporary buffer where you prepare files to be pushed into the repository.
+It offers the possibility to prepare your commits before you actually commit them from the working directory to the repository.
+
 How can you use the staging area to make sure you have one commit per logical change?
 You can collect files in the staging area before committing them, and using the diff command to compare them before committing.
