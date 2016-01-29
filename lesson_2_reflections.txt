@@ -24,3 +24,5 @@ The diagram helps to visualize the commit history of both branches.
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 Git's automatic merging does not interpret the code, so it can lead to conflicts that need to be solved manually.
 On the other hand, always merging manually is a lot more work which in most cases can be done by Git instead.
+
+Test
